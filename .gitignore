@@ -1,0 +1,6 @@
+# only the website is tracked
+*
+!index.html
+!Dockerfile
+!.dockerignore
+!.gitignore
